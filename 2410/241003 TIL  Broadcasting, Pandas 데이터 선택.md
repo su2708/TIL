@@ -1,4 +1,4 @@
-#TIL #스파르타코딩클럽 [[TIL]]
+#TIL #스파르타코딩클럽 [[2410]]
 
 ## 브로드캐스팅(broadcasting)
 ### 1. 브로드캐스팅(broadcasting)

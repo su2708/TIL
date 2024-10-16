@@ -1,4 +1,4 @@
-#TIL #스파르타코딩클럽 [[TIL]]
+#TIL #스파르타코딩클럽 [[2410]]
 
 ## LangChain
 ### 1. LangChain

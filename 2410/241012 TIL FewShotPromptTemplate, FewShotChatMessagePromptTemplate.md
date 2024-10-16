@@ -1,4 +1,4 @@
-#TIL #스파르타코딩클럽 [[TIL]]
+#TIL #스파르타코딩클럽 [[2410]]
 
 ## FewShotPromptTemplate
 ### 1. FewShot은 언어 모델에게 **더 나은 답변을 얻기 위해 예제를 제공**하는 방식. 
