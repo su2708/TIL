@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2410/241016 TIL next(), 신경망.md",
+                "file": "Sparta/2410/241016 TIL next(), 신경망.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ed977bdc4993ea4e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2410/241016 TIL next(), 신경망.md",
+                "file": "Sparta/2410/241016 TIL next(), 신경망.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2410/241016 TIL next(), 신경망.md",
+                "file": "Sparta/2410/241016 TIL next(), 신경망.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2410/241016 TIL next(), 신경망.md"
+                "file": "Sparta/2410/241016 TIL next(), 신경망.md"
               }
             }
           }
@@ -148,33 +149,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a5e38dd9083e9fa",
+  "active": "323b8e9cee8c2bc3",
   "lastOpenFiles": [
-    "2410/241015 TIL 베이즈 정리, 엘보우 방법.md",
-    "2410/241014 TIL 앙상블 학습, fit_transform vs transform, 모델평가치.md",
-    "2410/241013 TIL LengthBasedExampleSelector, Serialization and Composition, Caching.md",
-    "2410/241012 TIL FewShotPromptTemplate, FewShotChatMessagePromptTemplate.md",
-    "2410/241011 TIL OutputParser and LCEL, Chaining Chains.md",
-    "2410/241010 TIL Predict Messages, Prompt Templates.md",
-    "2410/241009 TIL  LangChain.md",
-    "2410/241008 TIL  Pandas apply().md",
-    "2410/241007 TIL  Pandas pivot_table(), map().md",
-    "2410/241004 TIL  Pandas 조건부 필터링, 데이터 정렬과 병합.md",
-    "2410/241003 TIL  Broadcasting, Pandas 데이터 선택.md",
-    "2410/241002 TIL  Iterator, Generator와 yield, Decorator, Django.md",
-    "2410/241001 TIL  클래스와 객체, OOP의 핵심 개념, 클래스 메서드와 정적 메서드.md",
-    "2409/240930 TIL  python 함수 기본값, 가변 매개변수, 에러외 예외의 차이.md",
     "TIL.md",
-    "2410/2410.md",
-    "2409/240927 TIL  Pug에서 변수 활용하기, MVP.css, Pug의 조건문과 반복문.md",
-    "2409/240926 TIL  Pug.md",
-    "2409/240925 TIL  URL Parameters.md",
-    "2409/240924 TIL  Routers.md",
-    "2409/240923 TIL  HTTP Request & Response, Middleware.md",
-    "2409/240920 TIL  package.json vs package-lock.json.md",
-    "2409/240919 TIL  WebPack vs Gulp.md",
-    "2409/240913 TIL  SAM.md",
-    "2409/240912 TIL  MySQL에서 최댓값 찾는 방법.md",
-    "2409/240911 TIL  예외 처리, res.render & return.md"
+    "README.md",
+    "Sparta/2410/241016 TIL next(), 신경망.md",
+    "Sparta/2410/2410.md",
+    "Sparta/2409/2409.md",
+    "Sparta/2408/2408.md",
+    "Sparta/Sparta Coding Club.md",
+    "Sparta",
+    "Sparta/2410/241015 TIL 베이즈 정리, 엘보우 방법.md",
+    "Sparta/2410/241014 TIL 앙상블 학습, fit_transform vs transform, 모델평가치.md",
+    "Sparta/2410/241013 TIL LengthBasedExampleSelector, Serialization and Composition, Caching.md",
+    "Sparta/2410/241012 TIL FewShotPromptTemplate, FewShotChatMessagePromptTemplate.md",
+    "Sparta/2410/241011 TIL OutputParser and LCEL, Chaining Chains.md",
+    "Sparta/2410/241010 TIL Predict Messages, Prompt Templates.md",
+    "Sparta/2410/241009 TIL  LangChain.md",
+    "Sparta/2410/241008 TIL  Pandas apply().md",
+    "Sparta/2410/241007 TIL  Pandas pivot_table(), map().md",
+    "Sparta/2410/241004 TIL  Pandas 조건부 필터링, 데이터 정렬과 병합.md",
+    "Sparta/2410/241003 TIL  Broadcasting, Pandas 데이터 선택.md",
+    "Sparta/2410/241002 TIL  Iterator, Generator와 yield, Decorator, Django.md",
+    "Sparta/2410/241001 TIL  클래스와 객체, OOP의 핵심 개념, 클래스 메서드와 정적 메서드.md",
+    "Sparta/2409/240930 TIL  python 함수 기본값, 가변 매개변수, 에러외 예외의 차이.md",
+    "Sparta/2409/240927 TIL  Pug에서 변수 활용하기, MVP.css, Pug의 조건문과 반복문.md",
+    "Sparta/2409/240926 TIL  Pug.md",
+    "Sparta/2409/240925 TIL  URL Parameters.md",
+    "Sparta/2409/240924 TIL  Routers.md",
+    "Sparta/2409/240923 TIL  HTTP Request & Response, Middleware.md"
   ]
 }
