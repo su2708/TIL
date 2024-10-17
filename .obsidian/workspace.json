@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2410/241016 TIL next(), 신경망.md",
+                "file": "Sparta/2410/241017 TIL RNN과 기울기 폭발 문제.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed977bdc4993ea4e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sparta/2410/241016 TIL next(), 신경망.md",
+                "file": "Sparta/2410/241017 TIL RNN과 기울기 폭발 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sparta/2410/241016 TIL next(), 신경망.md",
+                "file": "Sparta/2410/241017 TIL RNN과 기울기 폭발 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2410/241016 TIL next(), 신경망.md"
+                "file": "Sparta/2410/241017 TIL RNN과 기울기 폭발 문제.md"
               }
             }
           }
@@ -149,11 +148,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "323b8e9cee8c2bc3",
+  "active": "1a5e38dd9083e9fa",
   "lastOpenFiles": [
+    "Sparta/2410/241017 TIL RNN과 기울기 폭발 문제.md",
+    "Sparta/2410/241016 TIL next(), 신경망.md",
     "TIL.md",
     "README.md",
-    "Sparta/2410/241016 TIL next(), 신경망.md",
     "Sparta/2410/2410.md",
     "Sparta/2409/2409.md",
     "Sparta/2408/2408.md",
@@ -176,7 +176,6 @@
     "Sparta/2409/240927 TIL  Pug에서 변수 활용하기, MVP.css, Pug의 조건문과 반복문.md",
     "Sparta/2409/240926 TIL  Pug.md",
     "Sparta/2409/240925 TIL  URL Parameters.md",
-    "Sparta/2409/240924 TIL  Routers.md",
-    "Sparta/2409/240923 TIL  HTTP Request & Response, Middleware.md"
+    "Sparta/2409/240924 TIL  Routers.md"
   ]
 }
