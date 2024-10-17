@@ -150,8 +150,9 @@
   },
   "active": "1a5e38dd9083e9fa",
   "lastOpenFiles": [
-    "Sparta/2410/241017 TIL RNN과 기울기 폭발 문제.md",
+    "Sparta/2410/241015 TIL 베이즈 정리, 엘보우 방법.md",
     "Sparta/2410/241016 TIL next(), 신경망.md",
+    "Sparta/2410/241017 TIL RNN과 기울기 폭발 문제.md",
     "TIL.md",
     "README.md",
     "Sparta/2410/2410.md",
@@ -159,7 +160,6 @@
     "Sparta/2408/2408.md",
     "Sparta/Sparta Coding Club.md",
     "Sparta",
-    "Sparta/2410/241015 TIL 베이즈 정리, 엘보우 방법.md",
     "Sparta/2410/241014 TIL 앙상블 학습, fit_transform vs transform, 모델평가치.md",
     "Sparta/2410/241013 TIL LengthBasedExampleSelector, Serialization and Composition, Caching.md",
     "Sparta/2410/241012 TIL FewShotPromptTemplate, FewShotChatMessagePromptTemplate.md",
