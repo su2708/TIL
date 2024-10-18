@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2410/241017 TIL RNN과 기울기 폭발 문제.md",
+                "file": "Sparta/2410/241018 TIL.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "241018 TIL"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sparta/2410/241017 TIL RNN과 기울기 폭발 문제.md",
+                "file": "Sparta/2410/241018 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "241018 TIL의 백링크"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sparta/2410/241017 TIL RNN과 기울기 폭발 문제.md",
+                "file": "Sparta/2410/241018 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "241018 TIL의 나가는 링크"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2410/241017 TIL RNN과 기울기 폭발 문제.md"
-              }
+                "file": "Sparta/2410/241018 TIL.md"
+              },
+              "icon": "lucide-list",
+              "title": "241018 TIL 개요"
             }
           }
         ]
@@ -150,9 +166,10 @@
   },
   "active": "1a5e38dd9083e9fa",
   "lastOpenFiles": [
+    "Sparta/2410/241017 TIL RNN과 기울기 폭발 문제.md",
+    "Sparta/2410/241018 TIL.md",
     "Sparta/2410/241015 TIL 베이즈 정리, 엘보우 방법.md",
     "Sparta/2410/241016 TIL next(), 신경망.md",
-    "Sparta/2410/241017 TIL RNN과 기울기 폭발 문제.md",
     "TIL.md",
     "README.md",
     "Sparta/2410/2410.md",
@@ -175,7 +192,6 @@
     "Sparta/2409/240930 TIL  python 함수 기본값, 가변 매개변수, 에러외 예외의 차이.md",
     "Sparta/2409/240927 TIL  Pug에서 변수 활용하기, MVP.css, Pug의 조건문과 반복문.md",
     "Sparta/2409/240926 TIL  Pug.md",
-    "Sparta/2409/240925 TIL  URL Parameters.md",
-    "Sparta/2409/240924 TIL  Routers.md"
+    "Sparta/2409/240925 TIL  URL Parameters.md"
   ]
 }
