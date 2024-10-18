@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2410/241018 TIL.md",
+                "file": "Sparta/2410/241018 TIL Attention 메커니즘, Autoencoder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241018 TIL"
+              "title": "241018 TIL Attention 메커니즘, Autoencoder"
             }
           }
         ]
@@ -167,7 +167,7 @@
   "active": "1a5e38dd9083e9fa",
   "lastOpenFiles": [
     "Sparta/2410/241017 TIL RNN과 기울기 폭발 문제.md",
-    "Sparta/2410/241018 TIL.md",
+    "Sparta/2410/241018 TIL Attention 메커니즘, Autoencoder.md",
     "Sparta/2410/241015 TIL 베이즈 정리, 엘보우 방법.md",
     "Sparta/2410/241016 TIL next(), 신경망.md",
     "TIL.md",
