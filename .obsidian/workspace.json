@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2411/241105 TIL List와 Dictionary의 연산 시간 복잡도.md",
+                "file": "Sparta/2411/241106 TIL With & Recursive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241105 TIL List와 Dictionary의 연산 시간 복잡도"
+              "title": "241106 TIL With & Recursive"
             }
           }
         ]
@@ -166,9 +166,10 @@
   },
   "active": "1a5e38dd9083e9fa",
   "lastOpenFiles": [
+    "Sparta/2411/241105 TIL List와 Dictionary의 연산 시간 복잡도.md",
+    "Sparta/2411/241106 TIL With & Recursive.md",
     "Sparta/2411/241102 TIL PyTorch로 Transformer 모델 구현.md",
     "Sparta/2411/241104 TIL CUDA Toolkit, cuDNN 설치.md",
-    "Sparta/2411/241105 TIL List와 Dictionary의 연산 시간 복잡도.md",
     "Sparta/2411/images/cuDNN.png",
     "Sparta/2411/images/cuda_toolkit.png",
     "Sparta/2411/images/gpu_wiki.png",
@@ -201,7 +202,6 @@
     "README.md",
     "Sparta/2409/2409.md",
     "Sparta",
-    "Sparta/2410/241011 TIL OutputParser and LCEL, Chaining Chains.md",
-    "Sparta/2410/241010 TIL Predict Messages, Prompt Templates.md"
+    "Sparta/2410/241011 TIL OutputParser and LCEL, Chaining Chains.md"
   ]
 }
