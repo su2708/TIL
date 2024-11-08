@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2411/241107 TIL Vector Store, RetrievalQA.md",
+                "file": "Sparta/2411/241108 TIL LLM 보안문제, FAISS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241107 TIL Vector Store, RetrievalQA"
+              "title": "241108 TIL LLM 보안문제, FAISS"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "1a5e38dd9083e9fa",
   "lastOpenFiles": [
-    "Sparta/2411/241106 TIL With & Recursive.md",
     "Sparta/2411/241107 TIL Vector Store, RetrievalQA.md",
+    "Sparta/2411/241108 TIL LLM 보안문제, FAISS.md",
+    "Sparta/2411/241106 TIL With & Recursive.md",
     "Sparta/2411/images/retriever_concept.png",
     "Sparta/2411/241105 TIL List와 Dictionary의 연산 시간 복잡도.md",
     "Sparta/2411/241102 TIL PyTorch로 Transformer 모델 구현.md",
