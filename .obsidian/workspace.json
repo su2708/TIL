@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2411/241110 TIL DocumentGPT.md",
+                "file": "Sparta/2411/241111 TIL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241110 TIL DocumentGPT"
+              "title": "241111 TIL"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "1a5e38dd9083e9fa",
   "lastOpenFiles": [
-    "Sparta/2411/241109 TIL Streamlit.md",
     "Sparta/2411/241110 TIL DocumentGPT.md",
+    "Sparta/2411/241111 TIL.md",
+    "Sparta/2411/241109 TIL Streamlit.md",
     "Sparta/2411/241108 TIL LLM 보안문제, FAISS.md",
     "Sparta/2411/241107 TIL Vector Store, RetrievalQA.md",
     "Sparta/2411/241106 TIL With & Recursive.md",
@@ -202,7 +203,6 @@
     "Sparta/2408/2408.md",
     "Sparta/Sparta Coding Club.md",
     "Sparta/2410/241012 TIL FewShotPromptTemplate, FewShotChatMessagePromptTemplate.md",
-    "Sparta/2410/241016 TIL next(), 신경망.md",
     "Sparta"
   ]
 }
