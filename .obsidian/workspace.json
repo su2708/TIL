@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2411/241111 TIL Magic, Data Flow, Multi Page, Chat Messages.md",
+                "file": "Sparta/2411/241112 TIL st.cache_data vs st.cache_resource, Crawling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241111 TIL Magic, Data Flow, Multi Page, Chat Messages"
+              "title": "241112 TIL st.cache_data vs st.cache_resource, Crawling"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "1a5e38dd9083e9fa",
   "lastOpenFiles": [
-    "Sparta/2411/241110 TIL DocumentGPT.md",
     "Sparta/2411/241111 TIL Magic, Data Flow, Multi Page, Chat Messages.md",
+    "Sparta/2411/241112 TIL st.cache_data vs st.cache_resource, Crawling.md",
+    "Sparta/2411/241110 TIL DocumentGPT.md",
     "Sparta/2411/241109 TIL Streamlit.md",
     "Sparta/2411/241108 TIL LLM 보안문제, FAISS.md",
     "Sparta/2411/241107 TIL Vector Store, RetrievalQA.md",
@@ -202,7 +203,6 @@
     "Sparta/2410/241013 TIL LengthBasedExampleSelector, Serialization and Composition, Caching.md",
     "Sparta/2408/2408.md",
     "Sparta/Sparta Coding Club.md",
-    "Sparta/2410/241012 TIL FewShotPromptTemplate, FewShotChatMessagePromptTemplate.md",
     "Sparta"
   ]
 }
