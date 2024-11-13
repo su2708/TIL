@@ -166,6 +166,14 @@
   },
   "active": "1a5e38dd9083e9fa",
   "lastOpenFiles": [
+    "Sparta/2411/images/stock_alarm_video.gif",
+    "Sparta/2411/images/stock_alarm_video.gif.crdownload",
+    "Sparta/2411/images/stock_list.png",
+    "Sparta/2411/images/stock_html.png",
+    "Sparta/2411/images/그림1.png",
+    "Sparta/2411/images/stocks_table.png",
+    "Sparta/2411/images/stock_alarm_diagram.png",
+    "Sparta/2411/images/스크린샷 2024-11-13 171816.png",
     "Sparta/2411/241111 TIL Magic, Data Flow, Multi Page, Chat Messages.md",
     "Sparta/2411/241112 TIL st.cache_data vs st.cache_resource, Crawling.md",
     "Sparta/2411/241110 TIL DocumentGPT.md",
@@ -180,13 +188,8 @@
     "Sparta/2411/images/cuDNN.png",
     "Sparta/2411/images/cuda_toolkit.png",
     "Sparta/2411/images/gpu_wiki.png",
-    "Sparta/2411/images/nvidia-smi.png",
     "Sparta/2411/241101 TIL RAG.md",
     "2024-11-02.md",
-    "Sparta/2411/images/word_algebra.png",
-    "Sparta/2411/images/rag_retrieval_generation.png",
-    "Sparta/2411/images/rag_indexing.png",
-    "Sparta/2411/images/Embedding.png",
     "Sparta/2411/images",
     "Sparta/2410/241001 TIL  클래스와 객체, OOP의 핵심 개념, 클래스 메서드와 정적 메서드.md",
     "Sparta/2410/2410.md",
@@ -202,7 +205,6 @@
     "Sparta/2410/241017 TIL RNN과 기울기 폭발 문제.md",
     "Sparta/2410/241013 TIL LengthBasedExampleSelector, Serialization and Composition, Caching.md",
     "Sparta/2408/2408.md",
-    "Sparta/Sparta Coding Club.md",
     "Sparta"
   ]
 }
