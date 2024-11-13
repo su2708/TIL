@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "241112 TIL st.cache_data vs st.cache_resource, Crawling"
             }
+          },
+          {
+            "id": "92b6252a47543abe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sparta/2411/241113 TIL LangSmith.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "241113 TIL LangSmith"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,8 +179,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a5e38dd9083e9fa",
+  "active": "92b6252a47543abe",
   "lastOpenFiles": [
+    "Sparta/2411/images/langsmith_tracing_example.png",
+    "Sparta/2411/images/스크린샷 2024-11-13 232702.png",
+    "Sparta/2411/images/prompt_vs_prompt_template.png",
+    "Sparta/2411/images/prompt_vs_prompt_template.png.crdownload",
+    "Sparta/2411/241112 TIL st.cache_data vs st.cache_resource, Crawling.md",
+    "Sparta/2411/241111 TIL Magic, Data Flow, Multi Page, Chat Messages.md",
+    "Sparta/2411/241110 TIL DocumentGPT.md",
+    "Sparta/2411/241109 TIL Streamlit.md",
+    "Sparta/2411/241108 TIL LLM 보안문제, FAISS.md",
+    "Sparta/2411/241107 TIL Vector Store, RetrievalQA.md",
+    "Sparta/2411/241106 TIL With & Recursive.md",
+    "Sparta/2411/241102 TIL PyTorch로 Transformer 모델 구현.md",
+    "Sparta/2411/241105 TIL List와 Dictionary의 연산 시간 복잡도.md",
+    "Sparta/2411/241101 TIL RAG.md",
+    "Sparta/2411/241113 TIL LangSmith.md",
+    "Sparta/2411/241104 TIL CUDA Toolkit, cuDNN 설치.md",
+    "Sparta/2411/2411.md",
+    "Sparta/Sparta Coding Club.md",
+    "TIL.md",
     "Sparta/2411/images/stock_alarm_video.gif",
     "Sparta/2411/images/stock_alarm_video.gif.crdownload",
     "Sparta/2411/images/stock_list.png",
@@ -174,37 +208,19 @@
     "Sparta/2411/images/stocks_table.png",
     "Sparta/2411/images/stock_alarm_diagram.png",
     "Sparta/2411/images/스크린샷 2024-11-13 171816.png",
-    "Sparta/2411/241111 TIL Magic, Data Flow, Multi Page, Chat Messages.md",
-    "Sparta/2411/241112 TIL st.cache_data vs st.cache_resource, Crawling.md",
-    "Sparta/2411/241110 TIL DocumentGPT.md",
-    "Sparta/2411/241109 TIL Streamlit.md",
-    "Sparta/2411/241108 TIL LLM 보안문제, FAISS.md",
-    "Sparta/2411/241107 TIL Vector Store, RetrievalQA.md",
-    "Sparta/2411/241106 TIL With & Recursive.md",
-    "Sparta/2411/241105 TIL List와 Dictionary의 연산 시간 복잡도.md",
     "Sparta/2411/images/retriever_concept.png",
-    "Sparta/2411/241102 TIL PyTorch로 Transformer 모델 구현.md",
-    "Sparta/2411/241104 TIL CUDA Toolkit, cuDNN 설치.md",
-    "Sparta/2411/images/cuDNN.png",
-    "Sparta/2411/images/cuda_toolkit.png",
-    "Sparta/2411/images/gpu_wiki.png",
-    "Sparta/2411/241101 TIL RAG.md",
     "2024-11-02.md",
     "Sparta/2411/images",
     "Sparta/2410/241001 TIL  클래스와 객체, OOP의 핵심 개념, 클래스 메서드와 정적 메서드.md",
     "Sparta/2410/2410.md",
-    "Sparta/2411/2411.md",
     "Sparta/2411",
     "Sparta/2410/241031 TIL Hugging Face.md",
     "Sparta/2410/241018 TIL Attention 메커니즘, Autoencoder.md",
     "Sparta/2410/241021 TIL Github로 팀프로젝트 하는 법.md",
     "Sparta/2410/241025 TIL NLTK.md",
-    "TIL.md",
     "Sparta/2410/241004 TIL  Pandas 조건부 필터링, 데이터 정렬과 병합.md",
     "Sparta/2410/241014 TIL 앙상블 학습, fit_transform vs transform, 모델평가치.md",
     "Sparta/2410/241017 TIL RNN과 기울기 폭발 문제.md",
-    "Sparta/2410/241013 TIL LengthBasedExampleSelector, Serialization and Composition, Caching.md",
-    "Sparta/2408/2408.md",
     "Sparta"
   ]
 }
