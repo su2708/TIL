@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2411/241114 TIL.md",
+                "file": "Sparta/2411/241114 TIL langchain.hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241114 TIL"
+              "title": "241114 TIL langchain.hub"
             }
           }
         ],
@@ -185,7 +185,7 @@
     "Sparta/2411/241111 TIL Magic, Data Flow, Multi Page, Chat Messages.md",
     "Sparta/2411/241112 TIL st.cache_data vs st.cache_resource, Crawling.md",
     "Sparta/2411/241113 TIL LangSmith.md",
-    "Sparta/2411/241114 TIL.md",
+    "Sparta/2411/241114 TIL langchain.hub.md",
     "Sparta/2411/images/langsmith_tracing_example.png",
     "Sparta/2411/images/스크린샷 2024-11-13 232702.png",
     "Sparta/2411/images/prompt_vs_prompt_template.png",
