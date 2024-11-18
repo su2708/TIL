@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2411/241117 TIL PrivateGPT, HuggingFaceHub vs HuggingFaceEndpoint.md",
+                "file": "Sparta/2411/241118 TIL HuggingFacePipeline, GPT4All.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241117 TIL PrivateGPT, HuggingFaceHub vs HuggingFaceEndpoint"
+              "title": "241118 TIL HuggingFacePipeline, GPT4All"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "92b6252a47543abe",
   "lastOpenFiles": [
-    "Sparta/2411/241116 TIL Selenium.md",
     "Sparta/2411/241117 TIL PrivateGPT, HuggingFaceHub vs HuggingFaceEndpoint.md",
+    "Sparta/2411/241118 TIL HuggingFacePipeline, GPT4All.md",
+    "Sparta/2411/241116 TIL Selenium.md",
     "Sparta/2411/241115 TIL API.md",
     "Sparta/2411/241108 TIL LLM 보안문제, FAISS.md",
     "Sparta/2411/241109 TIL Streamlit.md",
@@ -205,7 +206,6 @@
     "Sparta/2410/241031 TIL Hugging Face.md",
     "Sparta/2410/241018 TIL Attention 메커니즘, Autoencoder.md",
     "Sparta/2410/241021 TIL Github로 팀프로젝트 하는 법.md",
-    "Sparta/2410/241025 TIL NLTK.md",
     "Sparta"
   ]
 }
