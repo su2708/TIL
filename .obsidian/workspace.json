@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2411/241119 TIL Django 소개, Django Project & App.md",
+                "file": "Sparta/2411/241120 TIL Whisper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241119 TIL Django 소개, Django Project & App"
+              "title": "241120 TIL Whisper"
             }
           }
         ]
@@ -166,8 +166,11 @@
   },
   "active": "92b6252a47543abe",
   "lastOpenFiles": [
-    "Sparta/2411/241118 TIL HuggingFacePipeline, GPT4All.md",
+    "Sparta/2411/images/whisper-model-architecture.svg",
+    "Sparta/2411/images/미확인 876470.crdownload",
     "Sparta/2411/241119 TIL Django 소개, Django Project & App.md",
+    "Sparta/2411/241120 TIL Whisper.md",
+    "Sparta/2411/241118 TIL HuggingFacePipeline, GPT4All.md",
     "Sparta/2411/241117 TIL PrivateGPT, HuggingFaceHub vs HuggingFaceEndpoint.md",
     "Sparta/2411/241116 TIL Selenium.md",
     "Sparta/2411/241115 TIL API.md",
@@ -204,8 +207,6 @@
     "Sparta/2410/241001 TIL  클래스와 객체, OOP의 핵심 개념, 클래스 메서드와 정적 메서드.md",
     "Sparta/2410/2410.md",
     "Sparta/2411",
-    "Sparta/2410/241031 TIL Hugging Face.md",
-    "Sparta/2410/241018 TIL Attention 메커니즘, Autoencoder.md",
     "Sparta"
   ]
 }
