@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2411/241120 TIL Whisper.md",
+                "file": "Sparta/2411/241121 TIL packing & unpacking, eval().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241120 TIL Whisper"
+              "title": "241121 TIL packing & unpacking, eval()"
             }
           }
         ]
@@ -166,10 +166,11 @@
   },
   "active": "92b6252a47543abe",
   "lastOpenFiles": [
+    "Sparta/2411/241120 TIL Whisper.md",
+    "Sparta/2411/241121 TIL packing & unpacking, eval().md",
     "Sparta/2411/images/whisper-model-architecture.svg",
     "Sparta/2411/images/미확인 876470.crdownload",
     "Sparta/2411/241119 TIL Django 소개, Django Project & App.md",
-    "Sparta/2411/241120 TIL Whisper.md",
     "Sparta/2411/241118 TIL HuggingFacePipeline, GPT4All.md",
     "Sparta/2411/241117 TIL PrivateGPT, HuggingFaceHub vs HuggingFaceEndpoint.md",
     "Sparta/2411/241116 TIL Selenium.md",
@@ -201,7 +202,6 @@
     "Sparta/2411/images/그림1.png",
     "Sparta/2411/images/stocks_table.png",
     "Sparta/2411/images/stock_alarm_diagram.png",
-    "Sparta/2411/images/스크린샷 2024-11-13 171816.png",
     "2024-11-02.md",
     "Sparta/2411/images",
     "Sparta/2410/241001 TIL  클래스와 객체, OOP의 핵심 개념, 클래스 메서드와 정적 메서드.md",
