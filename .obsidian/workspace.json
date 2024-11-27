@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2411/241127 TIL.md",
+                "file": "Sparta/2411/241127 TIL metadata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241127 TIL"
+              "title": "241127 TIL metadata"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sparta/2410/241018 TIL.md",
+                "file": "Sparta/2411/241127 TIL metadata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "241018 TIL의 나가는 링크"
+              "title": "241127 TIL metadata의 나가는 링크"
             }
           },
           {
@@ -140,14 +140,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2411/241127 TIL.md"
+                "file": "Sparta/2411/241127 TIL metadata.md"
               },
               "icon": "lucide-list",
-              "title": "241127 TIL 개요"
+              "title": "241127 TIL metadata 개요"
             }
           },
           {
-            "id": "8b58c10c8c427bd3",
+            "id": "7b1ec4db58dc3e11",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +180,7 @@
   "active": "92b6252a47543abe",
   "lastOpenFiles": [
     "Sparta/2411/241123 TIL Mermaid.md",
-    "Sparta/2411/241127 TIL.md",
+    "Sparta/2411/241127 TIL metadata.md",
     "Sparta/2411/241126 TIL 팀 프로젝트 CSV Agent 초안.md",
     "Sparta/2411/241125 TIL 팀 프로젝트 크롤링 part.md",
     "Sparta/2411/241124 TIL 챌린지 반 과제 1번.md",
