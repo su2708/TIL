@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2411/241130 TIL Conversation Summary Memory, Conversation Summary Buffer Memory.md",
+                "file": "Sparta/2412/241202 TIL 팀프로젝트 README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241130 TIL Conversation Summary Memory, Conversation Summary Buffer Memory"
+              "title": "241202 TIL 팀프로젝트 README"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2411/241130 TIL Conversation Summary Memory, Conversation Summary Buffer Memory.md"
+                "file": "Sparta/2412/241202 TIL 팀프로젝트 README.md"
               },
               "icon": "lucide-list",
-              "title": "241130 TIL Conversation Summary Memory, Conversation Summary Buffer Memory 개요"
+              "title": "241202 TIL 팀프로젝트 README 개요"
             }
           },
           {
@@ -176,8 +176,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92b6252a47543abe",
+  "active": "323b8e9cee8c2bc3",
   "lastOpenFiles": [
+    "Sparta/2412/images/system_structure.png",
+    "Sparta/2412/images/스크린샷 2024-12-03 000249.png",
+    "Sparta/2411/241129 TIL 팀프로젝트 중간 집계.md",
+    "Sparta/2411/241130 TIL Conversation Summary Memory, Conversation Summary Buffer Memory.md",
+    "Sparta/2412/241202 TIL 팀프로젝트 README.md",
+    "Sparta/2411/241127 TIL metadata.md",
+    "Sparta/2412/2412.md",
+    "Sparta/2412/images",
+    "Sparta/2412",
     "Sparta/2410/241017 TIL RNN과 기울기 폭발 문제.md",
     "Sparta/2410/241018 TIL Attention 메커니즘, Autoencoder.md",
     "Sparta/2410/241025 TIL NLTK.md",
@@ -185,11 +194,8 @@
     "Sparta/2410/241014 TIL 앙상블 학습, fit_transform vs transform, 모델평가치.md",
     "Sparta/2410/241013 TIL LengthBasedExampleSelector, Serialization and Composition, Caching.md",
     "Sparta/2410/241012 TIL FewShotPromptTemplate, FewShotChatMessagePromptTemplate.md",
-    "Sparta/2411/241130 TIL Conversation Summary Memory, Conversation Summary Buffer Memory.md",
-    "Sparta/2411/241129 TIL 팀프로젝트 중간 집계.md",
     "Sparta/2411/images/UI 설계 구성.png",
     "TIL.md",
-    "Sparta/2411/241127 TIL metadata.md",
     "Sparta/2411/241123 TIL Mermaid.md",
     "Sparta/2411/241126 TIL 팀 프로젝트 CSV Agent 초안.md",
     "Sparta/2411/241125 TIL 팀 프로젝트 크롤링 part.md",
@@ -207,14 +213,10 @@
     "Sparta/2411/241111 TIL Magic, Data Flow, Multi Page, Chat Messages.md",
     "Sparta/2411/241110 TIL DocumentGPT.md",
     "Sparta/2411/241109 TIL Streamlit.md",
-    "Sparta/2411/241108 TIL LLM 보안문제, FAISS.md",
-    "Sparta/2411/241107 TIL Vector Store, RetrievalQA.md",
-    "Sparta/2411/241106 TIL With & Recursive.md",
     "Sparta/2411/images/whisper-model-architecture.svg",
     "Sparta/2411/images/미확인 876470.crdownload",
     "Sparta/2411/images/langsmith_tracing_example.png",
     "Sparta/2411/images/스크린샷 2024-11-13 232702.png",
-    "Sparta/2411/images/prompt_vs_prompt_template.png",
     "Sparta/2411/images/prompt_vs_prompt_template.png.crdownload",
     "Sparta/2411/images/stock_alarm_video.gif.crdownload",
     "Sparta/2411/images",
