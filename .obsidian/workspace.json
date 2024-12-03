@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2412/241202 TIL 팀프로젝트 README.md",
+                "file": "Sparta/2412/241203 TIL ConversationKGMemory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241202 TIL 팀프로젝트 README"
+              "title": "241203 TIL ConversationKGMemory"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2412/241202 TIL 팀프로젝트 README.md"
+                "file": "Sparta/2412/241203 TIL ConversationKGMemory.md"
               },
               "icon": "lucide-list",
-              "title": "241202 TIL 팀프로젝트 README 개요"
+              "title": "241203 TIL ConversationKGMemory 개요"
             }
           },
           {
@@ -172,16 +172,18 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "323b8e9cee8c2bc3",
+  "active": "92b6252a47543abe",
   "lastOpenFiles": [
+    "Sparta/2412/241202 TIL 팀프로젝트 README.md",
+    "Sparta/2412/241203 TIL ConversationKGMemory.md",
     "Sparta/2412/images/system_structure.png",
     "Sparta/2412/images/스크린샷 2024-12-03 000249.png",
     "Sparta/2411/241129 TIL 팀프로젝트 중간 집계.md",
     "Sparta/2411/241130 TIL Conversation Summary Memory, Conversation Summary Buffer Memory.md",
-    "Sparta/2412/241202 TIL 팀프로젝트 README.md",
     "Sparta/2411/241127 TIL metadata.md",
     "Sparta/2412/2412.md",
     "Sparta/2412/images",
@@ -215,7 +217,6 @@
     "Sparta/2411/images/whisper-model-architecture.svg",
     "Sparta/2411/images/미확인 876470.crdownload",
     "Sparta/2411/images/langsmith_tracing_example.png",
-    "Sparta/2411/images/스크린샷 2024-11-13 232702.png",
     "Sparta/2411/images/prompt_vs_prompt_template.png.crdownload",
     "Sparta/2411/images/stock_alarm_video.gif.crdownload",
     "Sparta/2411/images",
