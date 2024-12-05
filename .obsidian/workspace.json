@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84ceebedc3cbd295",
+        "id": "4ed0c210ac1ae2be",
         "type": "tabs",
         "children": [
           {
-            "id": "92b6252a47543abe",
+            "id": "a5387cbde0624025",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,10 +176,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92b6252a47543abe",
+  "active": "a5387cbde0624025",
   "lastOpenFiles": [
-    "Sparta/2412/241204 TIL Chat Based Memory vs LCEL Based Memory.md",
     "Sparta/2412/241205 TIL CI CD란 무엇인가, Docker 기초.md",
+    "Sparta/2412/241204 TIL Chat Based Memory vs LCEL Based Memory.md",
     "Sparta/Sparta Coding Club.md",
     "README.md",
     "TIL.md",
