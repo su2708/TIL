@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2412/241205 TIL CI CD란 무엇인가, Docker 기초.md",
+                "file": "Sparta/2412/241209 TIL Gradle, Docker 환경에서 Gradle의 역할.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241205 TIL CI CD란 무엇인가, Docker 기초"
+              "title": "241209 TIL Gradle, Docker 환경에서 Gradle의 역할"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2412/241205 TIL CI CD란 무엇인가, Docker 기초.md"
+                "file": "Sparta/2412/241209 TIL Gradle, Docker 환경에서 Gradle의 역할.md"
               },
               "icon": "lucide-list",
-              "title": "241205 TIL CI CD란 무엇인가, Docker 기초 개요"
+              "title": "241209 TIL Gradle, Docker 환경에서 Gradle의 역할 개요"
             }
           },
           {
@@ -179,6 +179,7 @@
   "active": "a5387cbde0624025",
   "lastOpenFiles": [
     "Sparta/2412/241205 TIL CI CD란 무엇인가, Docker 기초.md",
+    "Sparta/2412/241209 TIL Gradle, Docker 환경에서 Gradle의 역할.md",
     "Sparta/2412/241204 TIL Chat Based Memory vs LCEL Based Memory.md",
     "Sparta/Sparta Coding Club.md",
     "README.md",
@@ -215,7 +216,6 @@
     "Sparta/2411/241122 TIL ConversationBufferMemory, ConversationBufferWindowMemory.md",
     "Sparta/2411/241121 TIL packing & unpacking, eval().md",
     "Sparta/2411/241114 TIL langchain.hub.md",
-    "Sparta/2411/241113 TIL LangSmith.md",
     "Sparta/2411/images/미확인 876470.crdownload",
     "Sparta/2411/images/prompt_vs_prompt_template.png.crdownload",
     "Sparta/2411/images/stock_alarm_video.gif.crdownload",
