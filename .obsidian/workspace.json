@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2412/241211 TIL.md",
+                "file": "Sparta/2412/241211 TIL Pydantic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241211 TIL"
+              "title": "241211 TIL Pydantic"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2412/241211 TIL.md"
+                "file": "Sparta/2412/241211 TIL Pydantic.md"
               },
               "icon": "lucide-list",
-              "title": "241211 TIL 개요"
+              "title": "241211 TIL Pydantic 개요"
             }
           },
           {
@@ -179,7 +179,7 @@
   "active": "a5387cbde0624025",
   "lastOpenFiles": [
     "Sparta/2412/241209 TIL Gradle, Docker 환경에서 Gradle의 역할.md",
-    "Sparta/2412/241211 TIL.md",
+    "Sparta/2412/241211 TIL Pydantic.md",
     "Sparta/2412/241210 TIL Neural Text-to-Speech (TTS).md",
     "Sparta/2412/241205 TIL CI CD란 무엇인가, Docker 기초.md",
     "Sparta/2412/241204 TIL Chat Based Memory vs LCEL Based Memory.md",
