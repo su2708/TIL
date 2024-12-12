@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2412/241212 TIL Output Parser.md",
+                "file": "Sparta/2412/241212 TIL Output Parser, ERD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241212 TIL Output Parser"
+              "title": "241212 TIL Output Parser, ERD"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2412/241212 TIL Output Parser.md"
+                "file": "Sparta/2412/241212 TIL Output Parser, ERD.md"
               },
               "icon": "lucide-list",
-              "title": "241212 TIL Output Parser 개요"
+              "title": "241212 TIL Output Parser, ERD 개요"
             }
           },
           {
@@ -178,8 +178,12 @@
   },
   "active": "a5387cbde0624025",
   "lastOpenFiles": [
+    "Sparta/2412/images/관계표현방법.webp",
+    "Sparta/2412/images/관계표현방법.webp.crdownload",
+    "Sparta/2412/images/ERD.webp",
+    "Sparta/2412/images/ERD.webp.crdownload",
     "Sparta/2412/241211 TIL Pydantic.md",
-    "Sparta/2412/241212 TIL Output Parser.md",
+    "Sparta/2412/241212 TIL Output Parser, ERD.md",
     "Sparta/2412/241209 TIL Gradle, Docker 환경에서 Gradle의 역할.md",
     "Sparta/2412/241210 TIL Neural Text-to-Speech (TTS).md",
     "Sparta/2412/241205 TIL CI CD란 무엇인가, Docker 기초.md",
@@ -211,11 +215,9 @@
     "Sparta/2411/241123 TIL Mermaid.md",
     "Sparta/2411/241126 TIL 팀 프로젝트 CSV Agent 초안.md",
     "Sparta/2411/241125 TIL 팀 프로젝트 크롤링 part.md",
-    "Sparta/2411/241124 TIL 챌린지 반 과제 1번.md",
     "Sparta/2411/images/mermaid_sequence.png",
     "Sparta/2411/images/mermaid_pie.png",
     "Sparta/2411/images/mermaid_gantt.png",
-    "Sparta/2411/images/mermaid_flow.png",
     "Sparta/2411/images/미확인 876470.crdownload",
     "Sparta/2411/images/prompt_vs_prompt_template.png.crdownload",
     "Sparta/2411/images/stock_alarm_video.gif.crdownload",
