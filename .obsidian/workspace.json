@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2412/241213 TIL Dockerfile, Docker Compose.md",
+                "file": "Sparta/2412/241214 TIL Docker Volume, Docker Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241213 TIL Dockerfile, Docker Compose"
+              "title": "241214 TIL Docker Volume, Docker Network"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2412/241213 TIL Dockerfile, Docker Compose.md"
+                "file": "Sparta/2412/241214 TIL Docker Volume, Docker Network.md"
               },
               "icon": "lucide-list",
-              "title": "241213 TIL Dockerfile, Docker Compose 개요"
+              "title": "241214 TIL Docker Volume, Docker Network 개요"
             }
           },
           {
@@ -178,8 +178,12 @@
   },
   "active": "a5387cbde0624025",
   "lastOpenFiles": [
-    "Sparta/2412/241212 TIL Output Parser, ERD.md",
+    "Sparta/2412/images/Docker Network concept.webp",
+    "Sparta/2412/images/Docker Network concept.webp.crdownload",
+    "Sparta/2412/images/Docker Volume.webp",
     "Sparta/2412/241213 TIL Dockerfile, Docker Compose.md",
+    "Sparta/2412/241214 TIL Docker Volume, Docker Network.md",
+    "Sparta/2412/241212 TIL Output Parser, ERD.md",
     "Sparta/2412/images/관계표현방법.webp",
     "Sparta/2412/images/관계표현방법.webp.crdownload",
     "Sparta/2412/images/ERD.webp",
@@ -214,15 +218,11 @@
     "Sparta/2410/241012 TIL FewShotPromptTemplate, FewShotChatMessagePromptTemplate.md",
     "Sparta/2411/images/UI 설계 구성.png",
     "Sparta/2411/241123 TIL Mermaid.md",
-    "Sparta/2411/241126 TIL 팀 프로젝트 CSV Agent 초안.md",
-    "Sparta/2411/241125 TIL 팀 프로젝트 크롤링 part.md",
     "Sparta/2411/images/mermaid_sequence.png",
-    "Sparta/2411/images/mermaid_pie.png",
     "Sparta/2411/images/미확인 876470.crdownload",
     "Sparta/2411/images/prompt_vs_prompt_template.png.crdownload",
     "Sparta/2411/images/stock_alarm_video.gif.crdownload",
     "Sparta/2411/images",
-    "Sparta/2411",
-    "Sparta"
+    "Sparta/2411"
   ]
 }
