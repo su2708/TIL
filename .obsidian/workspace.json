@@ -172,8 +172,7 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "a5387cbde0624025",
