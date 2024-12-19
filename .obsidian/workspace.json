@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2412/241219 TIL URL Namespace.md",
+                "file": "Sparta/2412/241219 TIL URL Namespace, Django Auth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241219 TIL URL Namespace"
+              "title": "241219 TIL URL Namespace, Django Auth"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2412/241219 TIL URL Namespace.md"
+                "file": "Sparta/2412/241219 TIL URL Namespace, Django Auth.md"
               },
               "icon": "lucide-list",
-              "title": "241219 TIL URL Namespace 개요"
+              "title": "241219 TIL URL Namespace, Django Auth 개요"
             }
           },
           {
@@ -179,7 +179,7 @@
   "active": "a5387cbde0624025",
   "lastOpenFiles": [
     "Sparta/2412/241218 TIL Django Form.md",
-    "Sparta/2412/241219 TIL URL Namespace.md",
+    "Sparta/2412/241219 TIL URL Namespace, Django Auth.md",
     "Sparta/2412/241217 TIL Django MTV 사용하기.md",
     "Sparta/2412/241216 TIL MTV, Django Template System, 다중 앱과 URL, Django Model, Django ORM.md",
     "Sparta/2412/241204 TIL Chat Based Memory vs LCEL Based Memory.md",
