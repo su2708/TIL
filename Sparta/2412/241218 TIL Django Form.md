@@ -49,11 +49,11 @@ def new(request):
 <!-- articles/templates/new.html -->
 <h1>New Articles</h1>
 
-    <form action="{% url 'create' %}" method="POST">
-        {% csrf_token %}
-        {{ form.as_p }}  <!-- form 적용 -->
-        <button type="submit">저장</button>
-    </form>
+<form action="{% url 'create' %}" method="POST">
+	{% csrf_token %}
+	{{ form.as_p }}  <!-- form 적용 -->
+	<button type="submit">저장</button>
+</form>
 ```
 
 - Form rendering options
