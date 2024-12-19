@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2412/241219 TIL URL Namespace, Django Auth.md",
+                "file": "Sparta/2412/241220 TIL 회원기능 구현하기,.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241219 TIL URL Namespace, Django Auth"
+              "title": "241220 TIL 회원기능 구현하기,"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2412/241219 TIL URL Namespace, Django Auth.md"
+                "file": "Sparta/2412/241220 TIL 회원기능 구현하기,.md"
               },
               "icon": "lucide-list",
-              "title": "241219 TIL URL Namespace, Django Auth 개요"
+              "title": "241220 TIL 회원기능 구현하기, 개요"
             }
           },
           {
@@ -178,8 +178,9 @@
   },
   "active": "a5387cbde0624025",
   "lastOpenFiles": [
-    "Sparta/2412/241218 TIL Django Form.md",
     "Sparta/2412/241219 TIL URL Namespace, Django Auth.md",
+    "Sparta/2412/241220 TIL 회원기능 구현하기,.md",
+    "Sparta/2412/241218 TIL Django Form.md",
     "Sparta/2412/241217 TIL Django MTV 사용하기.md",
     "Sparta/2412/241216 TIL MTV, Django Template System, 다중 앱과 URL, Django Model, Django ORM.md",
     "Sparta/2412/241204 TIL Chat Based Memory vs LCEL Based Memory.md",
@@ -219,7 +220,6 @@
     "Sparta/2410/241017 TIL RNN과 기울기 폭발 문제.md",
     "Sparta/2410/241018 TIL Attention 메커니즘, Autoencoder.md",
     "Sparta/2410/241025 TIL NLTK.md",
-    "Sparta/2410/241031 TIL Hugging Face.md",
     "Sparta/2411/images/미확인 876470.crdownload",
     "Sparta/2411/images/prompt_vs_prompt_template.png.crdownload",
     "Sparta/2411/images/stock_alarm_video.gif.crdownload",
