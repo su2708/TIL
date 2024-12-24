@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2412/241223 TIL Model Relationship (M-N).md",
+                "file": "Sparta/2412/241225 TIL Response와 Serializer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241223 TIL Model Relationship (M-N)"
+              "title": "241225 TIL Response와 Serializer"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2412/241223 TIL Model Relationship (M-N).md"
+                "file": "Sparta/2412/241225 TIL Response와 Serializer.md"
               },
               "icon": "lucide-list",
-              "title": "241223 TIL Model Relationship (M-N) 개요"
+              "title": "241225 TIL Response와 Serializer 개요"
             }
           },
           {
@@ -178,8 +178,10 @@
   },
   "active": "a5387cbde0624025",
   "lastOpenFiles": [
-    "Sparta/2412/241222 TIL Model Relationship (1-N), Custom UserModel.md",
+    "Sparta/2412/241224 TIL Django Project 세팅, RESTful API와 JSON.md",
+    "Sparta/2412/241225 TIL Response와 Serializer.md",
     "Sparta/2412/241223 TIL Model Relationship (M-N).md",
+    "Sparta/2412/241222 TIL Model Relationship (1-N), Custom UserModel.md",
     "Sparta/2412/241221 TIL Django Static & Media.md",
     "Sparta/2412/241220 TIL 회원기능 구현하기.md",
     "Sparta/2412/241219 TIL URL Namespace, Django Auth.md",
@@ -216,8 +218,6 @@
     "Sparta/2412/images/스크린샷 2024-12-03 000249.png",
     "Sparta/2411/241129 TIL 팀프로젝트 중간 집계.md",
     "Sparta/2411/241130 TIL Conversation Summary Memory, Conversation Summary Buffer Memory.md",
-    "Sparta/2411/241127 TIL metadata.md",
-    "Sparta/2412/2412.md",
     "Sparta/2412/images",
     "Sparta/2412",
     "Sparta/2411/images/미확인 876470.crdownload",
