@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2412/241226 TIL DRF Single Model CRUD, DRF Class Based View.md",
+                "file": "Sparta/2412/241227 TIL Serializer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241226 TIL DRF Single Model CRUD, DRF Class Based View"
+              "title": "241227 TIL Serializer"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2412/241226 TIL DRF Single Model CRUD, DRF Class Based View.md"
+                "file": "Sparta/2412/241227 TIL Serializer.md"
               },
               "icon": "lucide-list",
-              "title": "241226 TIL DRF Single Model CRUD, DRF Class Based View 개요"
+              "title": "241227 TIL Serializer 개요"
             }
           },
           {
@@ -178,8 +178,9 @@
   },
   "active": "a5387cbde0624025",
   "lastOpenFiles": [
-    "Sparta/2412/241225 TIL Response와 Serializer.md",
     "Sparta/2412/241226 TIL DRF Single Model CRUD, DRF Class Based View.md",
+    "Sparta/2412/241227 TIL Serializer.md",
+    "Sparta/2412/241225 TIL Response와 Serializer.md",
     "Sparta/2412/241224 TIL Django Project 세팅, RESTful API와 JSON.md",
     "Sparta/2412/241223 TIL Model Relationship (M-N).md",
     "Sparta/2412/241222 TIL Model Relationship (1-N), Custom UserModel.md",
@@ -217,7 +218,6 @@
     "Sparta/2412/241202 TIL 팀프로젝트 README.md",
     "Sparta/2412/images/system_structure.png",
     "Sparta/2412/images/스크린샷 2024-12-03 000249.png",
-    "Sparta/2411/241129 TIL 팀프로젝트 중간 집계.md",
     "Sparta/2412/images",
     "Sparta/2412",
     "Sparta/2411/images/미확인 876470.crdownload",
