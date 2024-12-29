@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2412/241227 TIL Serializer.md",
+                "file": "Sparta/2412/241228 TIL Token Auth with JWT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241227 TIL Serializer"
+              "title": "241228 TIL Token Auth with JWT"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2412/241227 TIL Serializer.md"
+                "file": "Sparta/2412/241228 TIL Token Auth with JWT.md"
               },
               "icon": "lucide-list",
-              "title": "241227 TIL Serializer 개요"
+              "title": "241228 TIL Token Auth with JWT 개요"
             }
           },
           {
@@ -178,8 +178,9 @@
   },
   "active": "a5387cbde0624025",
   "lastOpenFiles": [
-    "Sparta/2412/241226 TIL DRF Single Model CRUD, DRF Class Based View.md",
     "Sparta/2412/241227 TIL Serializer.md",
+    "Sparta/2412/241228 TIL Token Auth with JWT.md",
+    "Sparta/2412/241226 TIL DRF Single Model CRUD, DRF Class Based View.md",
     "Sparta/2412/241225 TIL Response와 Serializer.md",
     "Sparta/2412/241224 TIL Django Project 세팅, RESTful API와 JSON.md",
     "Sparta/2412/241223 TIL Model Relationship (M-N).md",
@@ -215,7 +216,6 @@
     "Sparta/2412/images/CI_CD.webp",
     "Sparta/2412/images/agile.svg",
     "Sparta/2412/241203 TIL ConversationKGMemory.md",
-    "Sparta/2412/241202 TIL 팀프로젝트 README.md",
     "Sparta/2412/images/system_structure.png",
     "Sparta/2412/images/스크린샷 2024-12-03 000249.png",
     "Sparta/2412/images",
