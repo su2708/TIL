@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2501/250107 TIL.md",
+                "file": "Sparta/2501/250107 TIL Chatbot Model 설계.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250107 TIL"
+              "title": "250107 TIL Chatbot Model 설계"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2501/250107 TIL.md"
+                "file": "Sparta/2501/250107 TIL Chatbot Model 설계.md"
               },
               "icon": "lucide-list",
-              "title": "250107 TIL 개요"
+              "title": "250107 TIL Chatbot Model 설계 개요"
             }
           },
           {
@@ -179,7 +179,7 @@
   "active": "a5387cbde0624025",
   "lastOpenFiles": [
     "Sparta/2501/250106 TIL ChatRoom 생성 기능 개발.md",
-    "Sparta/2501/250107 TIL.md",
+    "Sparta/2501/250107 TIL Chatbot Model 설계.md",
     "Sparta/2501/2501.md",
     "Sparta/2412/2412.md",
     "Sparta/2412/241228 TIL Token Auth with JWT.md",
