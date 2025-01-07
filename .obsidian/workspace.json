@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2501/250106 TIL ChatRoom 생성 기능 개발.md",
+                "file": "Sparta/2501/250107 TIL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250106 TIL ChatRoom 생성 기능 개발"
+              "title": "250107 TIL"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2501/250106 TIL ChatRoom 생성 기능 개발.md"
+                "file": "Sparta/2501/250107 TIL.md"
               },
               "icon": "lucide-list",
-              "title": "250106 TIL ChatRoom 생성 기능 개발 개요"
+              "title": "250107 TIL 개요"
             }
           },
           {
@@ -178,8 +178,9 @@
   },
   "active": "a5387cbde0624025",
   "lastOpenFiles": [
-    "Sparta/2501/2501.md",
     "Sparta/2501/250106 TIL ChatRoom 생성 기능 개발.md",
+    "Sparta/2501/250107 TIL.md",
+    "Sparta/2501/2501.md",
     "Sparta/2412/2412.md",
     "Sparta/2412/241228 TIL Token Auth with JWT.md",
     "Sparta/2501/image",
@@ -214,7 +215,6 @@
     "Sparta/2412/images/ERD.webp.crdownload",
     "Sparta/2412/241209 TIL Gradle, Docker 환경에서 Gradle의 역할.md",
     "Sparta/2412/241210 TIL Neural Text-to-Speech (TTS).md",
-    "Sparta/Sparta Coding Club.md",
     "Sparta/2412/images/Kubernetes.webp",
     "Sparta/2412/images/CI_CD.webp",
     "Sparta/2412/images/agile.svg",
