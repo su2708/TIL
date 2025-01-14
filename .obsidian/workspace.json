@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2501/250113 TIL Query 분석 및 Agent 설계.md",
+                "file": "Sparta/2501/250114 TIL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250113 TIL Query 분석 및 Agent 설계"
+              "title": "250114 TIL"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2501/250113 TIL Query 분석 및 Agent 설계.md"
+                "file": "Sparta/2501/250114 TIL.md"
               },
               "icon": "lucide-list",
-              "title": "250113 TIL Query 분석 및 Agent 설계 개요"
+              "title": "250114 TIL 개요"
             }
           },
           {
@@ -178,14 +178,17 @@
   },
   "active": "a5387cbde0624025",
   "lastOpenFiles": [
-    "Sparta/2501/250112 TIL JSON 데이터 처리 및 임베딩 함수 작성.md",
     "Sparta/2501/250113 TIL Query 분석 및 Agent 설계.md",
+    "Sparta/2501/250112 TIL JSON 데이터 처리 및 임베딩 함수 작성.md",
     "Sparta/2501/250111 TIL JSON 문자열 처리.md",
     "Sparta/2501/250110 TIL Django 모델 관리와 API 설계.md",
     "Sparta/2501/250109 TIL 모델 간 순환 참조 문제, TestPlan 생성 로직.md",
     "Sparta/2501/250108 TIL 채팅 방 생성 코드 수정.md",
     "Sparta/2501/250107 TIL Chatbot Model 설계.md",
+    "Sparta/Sparta Coding Club.md",
     "Sparta/2501/250106 TIL ChatRoom 생성 기능 개발.md",
+    "Sparta/2412/241203 TIL ConversationKGMemory.md",
+    "Sparta/2501/250114 TIL.md",
     "Sparta/2501/2501.md",
     "Sparta/2412/2412.md",
     "Sparta/2412/241228 TIL Token Auth with JWT.md",
@@ -203,9 +206,6 @@
     "Sparta/2412/241218 TIL Django Form.md",
     "Sparta/2412/241217 TIL Django MTV 사용하기.md",
     "Sparta/2412/241216 TIL MTV, Django Template System, 다중 앱과 URL, Django Model, Django ORM.md",
-    "Sparta/2412/241204 TIL Chat Based Memory vs LCEL Based Memory.md",
-    "Sparta/2412/241205 TIL CI CD란 무엇인가, Docker 기초.md",
-    "Sparta/2412/241211 TIL Pydantic.md",
     "Sparta/2412/images/Container의 발전.webp",
     "Sparta/2412/images/Container의 발전.webp.crdownload",
     "Sparta/2412/images/Docker Network concept.webp",
