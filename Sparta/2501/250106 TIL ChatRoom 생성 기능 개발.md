@@ -1,4 +1,4 @@
-#TIL #스파르타코딩클럽 [[Sparta Coding Club]]
+#TIL #스파르타코딩클럽 [[2501]]
 
 ## 1. Django에서 발생한 주요 문제와 해결 방법
 ### `no such table: chatrooms_chatroom` 에러

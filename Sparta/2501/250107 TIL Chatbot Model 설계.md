@@ -1,4 +1,4 @@
-#TIL #스파르타코딩클럽 [[Sparta Coding Club]]
+#TIL #스파르타코딩클럽 [[2501]]
 
 ## 1. 한 일
 ### Django REST Framework에서의 요청 처리
