@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2501/250114 TIL.md",
+                "file": "Sparta/2501/250114 TIL OpenAI 기반 Query 분석 및 벡터스토어 설계.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250114 TIL"
+              "title": "250114 TIL OpenAI 기반 Query 분석 및 벡터스토어 설계"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2501/250114 TIL.md"
+                "file": "Sparta/2501/250114 TIL OpenAI 기반 Query 분석 및 벡터스토어 설계.md"
               },
               "icon": "lucide-list",
-              "title": "250114 TIL 개요"
+              "title": "250114 TIL OpenAI 기반 Query 분석 및 벡터스토어 설계 개요"
             }
           },
           {
@@ -188,7 +188,7 @@
     "Sparta/Sparta Coding Club.md",
     "Sparta/2501/250106 TIL ChatRoom 생성 기능 개발.md",
     "Sparta/2412/241203 TIL ConversationKGMemory.md",
-    "Sparta/2501/250114 TIL.md",
+    "Sparta/2501/250114 TIL OpenAI 기반 Query 분석 및 벡터스토어 설계.md",
     "Sparta/2501/2501.md",
     "Sparta/2412/2412.md",
     "Sparta/2412/241228 TIL Token Auth with JWT.md",
