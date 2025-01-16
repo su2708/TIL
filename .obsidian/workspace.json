@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2501/250116 TIL.md",
+                "file": "Sparta/2501/250116 TIL 도커 컨테이너 및 Docker-Compose 학습.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250116 TIL"
+              "title": "250116 TIL 도커 컨테이너 및 Docker-Compose 학습"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2501/250116 TIL.md"
+                "file": "Sparta/2501/250116 TIL 도커 컨테이너 및 Docker-Compose 학습.md"
               },
               "icon": "lucide-list",
-              "title": "250116 TIL 개요"
+              "title": "250116 TIL 도커 컨테이너 및 Docker-Compose 학습 개요"
             }
           },
           {
@@ -179,7 +179,7 @@
   "active": "a5387cbde0624025",
   "lastOpenFiles": [
     "Sparta/2501/250115 TIL Chatbot의 search_books 문제 해결.md",
-    "Sparta/2501/250116 TIL.md",
+    "Sparta/2501/250116 TIL 도커 컨테이너 및 Docker-Compose 학습.md",
     "Sparta/2501/250109 TIL 모델 간 순환 참조 문제, TestPlan 생성 로직.md",
     "Sparta/2501/250108 TIL 채팅 방 생성 코드 수정.md",
     "Sparta/2501/250106 TIL ChatRoom 생성 기능 개발.md",
