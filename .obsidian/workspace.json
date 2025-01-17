@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2501/250116 TIL 도커 컨테이너 및 Docker-Compose 학습.md",
+                "file": "Sparta/2501/250117 TIL Github LFS 사용.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250116 TIL 도커 컨테이너 및 Docker-Compose 학습"
+              "title": "250117 TIL Github LFS 사용"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2501/250116 TIL 도커 컨테이너 및 Docker-Compose 학습.md"
+                "file": "Sparta/2501/250117 TIL Github LFS 사용.md"
               },
               "icon": "lucide-list",
-              "title": "250116 TIL 도커 컨테이너 및 Docker-Compose 학습 개요"
+              "title": "250117 TIL Github LFS 사용 개요"
             }
           },
           {
@@ -178,15 +178,16 @@
   },
   "active": "a5387cbde0624025",
   "lastOpenFiles": [
-    "Sparta/2501/250115 TIL Chatbot의 search_books 문제 해결.md",
     "Sparta/2501/250116 TIL 도커 컨테이너 및 Docker-Compose 학습.md",
+    "Sparta/2501/250117 TIL Github LFS 사용.md",
+    "Sparta/2501/250114 TIL OpenAI 기반 Query 분석 및 벡터스토어 설계.md",
+    "Sparta/2501/250115 TIL Chatbot의 search_books 문제 해결.md",
     "Sparta/2501/250109 TIL 모델 간 순환 참조 문제, TestPlan 생성 로직.md",
     "Sparta/2501/250108 TIL 채팅 방 생성 코드 수정.md",
     "Sparta/2501/250106 TIL ChatRoom 생성 기능 개발.md",
     "Sparta/2501/250107 TIL Chatbot Model 설계.md",
     "Sparta/2501/250111 TIL JSON 문자열 처리.md",
     "Sparta/2501/250110 TIL Django 모델 관리와 API 설계.md",
-    "Sparta/2501/250114 TIL OpenAI 기반 Query 분석 및 벡터스토어 설계.md",
     "Sparta/2501/250112 TIL JSON 데이터 처리 및 임베딩 함수 작성.md",
     "Sparta/2501/250113 TIL Query 분석 및 Agent 설계.md",
     "Sparta/Sparta Coding Club.md",
@@ -205,7 +206,6 @@
     "Sparta/2412/241221 TIL Django Static & Media.md",
     "Sparta/2412/241220 TIL 회원기능 구현하기.md",
     "Sparta/2412/241219 TIL URL Namespace, Django Auth.md",
-    "Sparta/2412/241218 TIL Django Form.md",
     "Sparta/2412/images/Container의 발전.webp",
     "Sparta/2412/images/Container의 발전.webp.crdownload",
     "Sparta/2412/images/Docker Network concept.webp",
