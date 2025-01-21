@@ -3,10 +3,10 @@
 ## 1. Docker & Docker-Compose Troubleshooting
 
 ### 1. Access denied for user 'root'@'localhost' (using password: NO)
-#### **문제**:
+**문제**:
 - root에 로그인이 되지 않던 문제
 
-**해결**:
+**해결책**:
 - db의 healthcheck에 아래의 문구로 수정
 ```yml
 db:
