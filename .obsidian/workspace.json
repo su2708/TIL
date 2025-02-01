@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2501/250123 Docker로 Nginx와 Gunicorn을 포함한 AWS 배포 방법 (Windows 환경).md",
+                "file": "Sparta/2501/250125 TIL 프로젝트 질문 정리 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250123 Docker로 Nginx와 Gunicorn을 포함한 AWS 배포 방법 (Windows 환경)"
+              "title": "250125 TIL 프로젝트 질문 정리 1"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2501/250123 Docker로 Nginx와 Gunicorn을 포함한 AWS 배포 방법 (Windows 환경).md"
+                "file": "Sparta/2501/250125 TIL 프로젝트 질문 정리 1.md"
               },
               "icon": "lucide-list",
-              "title": "250123 Docker로 Nginx와 Gunicorn을 포함한 AWS 배포 방법 (Windows 환경) 개요"
+              "title": "250125 TIL 프로젝트 질문 정리 1 개요"
             }
           },
           {
@@ -178,16 +178,18 @@
   },
   "active": "a5387cbde0624025",
   "lastOpenFiles": [
+    "Sparta/2501/250124 TIL MobaXterm을 사용하여 Docker 컨테이너 내부의 MariaDB(MySQL) 확인 방법.md",
+    "Sparta/2501/250125 TIL 프로젝트 질문 정리 1.md",
+    "Sparta/2501/250119 TIL MariaDB VS Postgresql.md",
+    "Sparta/2501/250112 TIL JSON 데이터 처리 및 임베딩 함수 작성.md",
+    "Sparta/2501/250123 Docker로 Nginx와 Gunicorn을 포함한 AWS 배포 방법 (Windows 환경).md",
     "Sparta/2501/250117 TIL Github LFS 사용.md",
     "Sparta/2501/250115 TIL Chatbot의 search_books 문제 해결.md",
     "Sparta/2501/250116 TIL 도커 컨테이너 및 Docker-Compose 학습.md",
     "Sparta/2501/250118 TIL Docker와 Docker-Compose를 활용한 Django 배포.md",
-    "Sparta/2501/250119 TIL MariaDB VS Postgresql.md",
     "Sparta/2501/250121 TIL Docker & Docker-Compose Troubleshooting.md",
     "Sparta/2501/250120 TIL Docker & Docker-Compose Troubleshooting.md",
-    "Sparta/2501/250123 Docker로 Nginx와 Gunicorn을 포함한 AWS 배포 방법 (Windows 환경).md",
     "Sparta/2501/250122 TIL Nginx와 Gunicorn의 개념 정리.md",
-    "Sparta/2501/250124 TIL MobaXterm을 사용하여 Docker 컨테이너 내부의 MariaDB(MySQL) 확인 방법.md",
     "Sparta/2501/250119 TIL Docker와 Docker-Compose를 활용한 Django 배포.md",
     "Sparta/2501/250114 TIL OpenAI 기반 Query 분석 및 벡터스토어 설계.md",
     "Sparta/2501/250109 TIL 모델 간 순환 참조 문제, TestPlan 생성 로직.md",
@@ -196,7 +198,6 @@
     "Sparta/2501/250107 TIL Chatbot Model 설계.md",
     "Sparta/2501/250111 TIL JSON 문자열 처리.md",
     "Sparta/2501/250110 TIL Django 모델 관리와 API 설계.md",
-    "Sparta/2501/250112 TIL JSON 데이터 처리 및 임베딩 함수 작성.md",
     "Sparta/2501/250113 TIL Query 분석 및 Agent 설계.md",
     "Sparta/Sparta Coding Club.md",
     "Sparta/2412/241203 TIL ConversationKGMemory.md",
@@ -205,7 +206,6 @@
     "Sparta/2412/241228 TIL Token Auth with JWT.md",
     "Sparta/2501/image",
     "Sparta/2501",
-    "Sparta/2412/241227 TIL Serializer.md",
     "Sparta/2412/images/Container의 발전.webp",
     "Sparta/2412/images/Container의 발전.webp.crdownload",
     "Sparta/2412/images/Docker Network concept.webp",
