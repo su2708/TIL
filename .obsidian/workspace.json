@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparta/2501/250125 TIL 프로젝트 질문 정리 1.md",
+                "file": "2502/250218 TIL QuizGPT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250125 TIL 프로젝트 질문 정리 1"
+              "title": "250218 TIL QuizGPT"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -70,7 +71,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "북마크"
             }
           }
         ]
@@ -139,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparta/2501/250125 TIL 프로젝트 질문 정리 1.md"
+                "file": "2502/250218 TIL QuizGPT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "250125 TIL 프로젝트 질문 정리 1 개요"
+              "title": "250218 TIL QuizGPT 의 개요"
             }
           },
           {
@@ -165,21 +169,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "a5387cbde0624025",
   "lastOpenFiles": [
-    "Sparta/2501/250124 TIL MobaXterm을 사용하여 Docker 컨테이너 내부의 MariaDB(MySQL) 확인 방법.md",
+    "2502/2502.md",
+    "2502/250218 TIL QuizGPT.md",
+    "2502/image",
+    "Sparta/2501/2501.md",
+    "TIL.md",
+    "2502",
+    "Sparta/Sparta Coding Club.md",
     "Sparta/2501/250125 TIL 프로젝트 질문 정리 1.md",
+    "Sparta/2501/250124 TIL MobaXterm을 사용하여 Docker 컨테이너 내부의 MariaDB(MySQL) 확인 방법.md",
     "Sparta/2501/250119 TIL MariaDB VS Postgresql.md",
     "Sparta/2501/250112 TIL JSON 데이터 처리 및 임베딩 함수 작성.md",
     "Sparta/2501/250123 Docker로 Nginx와 Gunicorn을 포함한 AWS 배포 방법 (Windows 환경).md",
@@ -199,11 +209,6 @@
     "Sparta/2501/250111 TIL JSON 문자열 처리.md",
     "Sparta/2501/250110 TIL Django 모델 관리와 API 설계.md",
     "Sparta/2501/250113 TIL Query 분석 및 Agent 설계.md",
-    "Sparta/Sparta Coding Club.md",
-    "Sparta/2412/241203 TIL ConversationKGMemory.md",
-    "Sparta/2501/2501.md",
-    "Sparta/2412/2412.md",
-    "Sparta/2412/241228 TIL Token Auth with JWT.md",
     "Sparta/2501/image",
     "Sparta/2501",
     "Sparta/2412/images/Container의 발전.webp",
@@ -221,8 +226,6 @@
     "Sparta/2412/images/system_structure.png",
     "Sparta/2412/images/스크린샷 2024-12-03 000249.png",
     "Sparta/2412/images",
-    "Sparta/2412",
-    "Sparta/2411/images/미확인 876470.crdownload",
-    "Sparta/2411/images/prompt_vs_prompt_template.png.crdownload"
+    "Sparta/2412"
   ]
 }
